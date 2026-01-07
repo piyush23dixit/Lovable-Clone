@@ -26,5 +26,8 @@ public class Plan {
 
     Integer maxPreviews;
 
+    Boolean unlimitedAi;
+
+    Boolean active;
 
 }
